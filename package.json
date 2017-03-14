@@ -1,6 +1,6 @@
 {
   "name": "ember-gnu-terry-pratchett",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds the standard Terry Pratchett memorial string to the head of an ember app",
   "keywords": [
     "ember-addon",
