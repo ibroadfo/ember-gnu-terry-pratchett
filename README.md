@@ -1,18 +1,18 @@
 # ember-gnu-terry-pratchett
 
-This README outlines the details of collaborating on this Ember addon.
+[![Build Status](https://travis-ci.org/ibroadfo/ember-gnu-terry-pratchett.svg?branch=master)](https://travis-ci.org/ibroadfo/ember-gnu-terry-pratchett)
+
+An ember addon to add the standard Terry Pratchett memorial text "GNU Terry Pratchett" to the `<head>` of your app.
+
+Please see (http://www.gnuterrypratchett.com/) for an explanation of the text.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-gnu-terry-pratchett`
-* `npm install`
-* `bower install`
+* `ember install ember-gnu-terry-pratchett`
 
-## Running
+## License
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+This addon is dual-licensed under the MIT and GNU GPL-2 licenses, purely for the pun on 'GNU'.
 
 ## Running Tests
 

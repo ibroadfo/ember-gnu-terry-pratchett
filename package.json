@@ -1,17 +1,17 @@
 {
   "name": "ember-gnu-terry-pratchett",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Adds the standard Terry Pratchett memorial string to the head of an ember app",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "pratchett"
   ],
-  "license": "MIT",
-  "author": "",
+  "license": "(MIT OR GPL-2.0)",
+  "author": "ibroadfo",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/ibroadfo/ember-gnu-terry-pratchett",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
