@@ -4,7 +4,7 @@
 
 An ember addon to add the standard Terry Pratchett memorial text "GNU Terry Pratchett" to the `<head>` of your app.
 
-Please see (http://www.gnuterrypratchett.com/) for an explanation of the text.
+Please see <http://www.gnuterrypratchett.com/> for an explanation of the text.
 
 ## Installation
 
